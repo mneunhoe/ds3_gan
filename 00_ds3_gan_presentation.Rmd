@@ -104,18 +104,102 @@ E.g. ml to predict elections, multiple imputation, the generation of privacy pro
 Before we get started I want to know a bit more about you. Why are you interested in Generative Adversarial Nets? No wrong answers (or only wrong answers?) 
 Summarize results...
 
+---
+
+## [This cat does not exist](https://thiscatdoesnotexist.com)
+
+
+<iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://thiscatdoesnotexist.com' style='position: absolute; top: 10; left: 50%; margin-left: -210px; width: 100%; height: 80%;' width='420'></iframe>
+
+
+---
+
+## [This person does not exist](https://thispersondoesnotexist.com)
+
+
+<iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://thispersondoesnotexist.com' style='position: absolute; top: 10; left: 0; width: 100%; height: 80%;' width='420'></iframe>
+
+
+---
+
+## These voices never said those words
+
+
+.center[
+```{r echo = F, fig.retina=3, out.width = 700}
+knitr::include_graphics("descript.png")
+```
+]
 
 ---
 
 class: inverse center middle
 
-## Introduction to mlr3
+## Why we should care
+
+---
+
+## Fake persons are used to spread misinformation
+
+.center[
+```{r echo = F, fig.retina=3, out.width = 250}
+knitr::include_graphics("martin-aspen.jpg")
+```
+]
+A viral dossier about Hunter Biden was written by "Martin Aspen," a fake identity whose profile picture was created by artificial intelligence. [NBC News, Oct. 29, 2020](https://www.nbcnews.com/tech/security/how-fake-persona-laid-groundwork-hunter-biden-conspiracy-deluge-n1245387)
+
+---
+
+## Deep fakes make it harder to trust audio visual sources
+
+.center[
+```{r echo = F, fig.retina=3, out.width = 450}
+knitr::include_graphics("obama.png")
+```
+]
+[A deep fake from five years ago.](https://www.youtube.com/watch?v=YfU_sWHT8mo)
+
+---
+
+## But: Generative Adversarial Nets can also be a useful method for Data Science
+
+Some examples: 
+- Imputation of missing values
+- Privacy protective synthetic data
+- Generating visual vignettes for survey experiments
+
+---
+
+## Today we will learn...
+
+- GAN basics
+- how to code a simple GAN from scratch
+- about different GAN design choices 
+- how to generate fake images
 
 ---
 
 class: inverse center middle
 
-## Outlook to Deep Learning
+## GAN basics
+
+---
+
+class: inverse center middle
+
+## Coding a simple GAN from scratch
+
+---
+
+class: inverse center middle
+
+## GAN design choices
+
+---
+
+class: inverse center middle
+
+## Generating fake images
 
 ---
 
