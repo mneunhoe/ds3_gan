@@ -15,6 +15,6 @@ Marcel Neunhoeffer, LMU Munich (Instructor)
 * 03_ds3_gan_images.ipynb - A GAN to generate fake images
 
 ## Docs 
-* Slides view them at  
+* Slides view them at http://marcel-neunhoeffer.com/ds3_gan/00_ds3_gan_presentation.html#1
 
 
