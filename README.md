@@ -11,9 +11,10 @@ Marcel Neunhoeffer, LMU Munich (Instructor)
 
 ## Code 
 * 01_ds3_gan_basics.ipynb - A GAN coded from scratch
-* 02_ds3_gan_dropout.ipynb - A GAN coded from scratch
+* 02_ds3_gan_dropout.ipynb - A simple experiment with dropout in GANs
+* 03_ds3_gan_images.ipynb - A GAN to generate fake images
 
 ## Docs 
-* Slides 
+* Slides view them at  
 
 
