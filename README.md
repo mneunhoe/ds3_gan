@@ -10,7 +10,8 @@ Marcel Neunhoeffer, LMU Munich (Instructor)
 
 
 ## Code 
-* 01_ds3_gan_complete - A GAN coded from scratch
+* 01_ds3_gan_basics.ipynb - A GAN coded from scratch
+* 02_ds3_gan_dropout.ipynb - A GAN coded from scratch
 
 ## Docs 
 * Slides 
